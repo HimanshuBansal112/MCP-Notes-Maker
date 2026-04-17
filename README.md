@@ -22,7 +22,7 @@ You can connect any client to this tool either programmatically or using AI apps
 2. Add this configuration:
    ```json
     "mcpServers": {
-     "quizMaker": {
+     "notesMaker": {
        "command": "path_to_uv",
        "args": [
          "run",
