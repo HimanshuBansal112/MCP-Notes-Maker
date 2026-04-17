@@ -5,6 +5,7 @@
 3. Run
    
    ```bash
+   uv init .
    uv venv
    .venv\Scripts\activate
    uv pip install -r requirements.txt
