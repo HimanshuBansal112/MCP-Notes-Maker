@@ -168,7 +168,7 @@ if __name__ == "__main__":
   <title>Notes</title>
   <script>
     MathJax = {
-      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      tex: { inlineMath: [['$', '$']] },
       svg: { fontCache: 'global' }
     };
   </script>
