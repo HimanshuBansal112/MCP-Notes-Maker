@@ -1,4 +1,6 @@
 # MCP-Notes-Maker
+> **Note:** This project is now part of [Multi-Agent-Study-Orchestrator](https://github.com/HimanshuBansal112/Multi-Agent-Study-Orchestrator). Future enhancements will primarily be developed there, while this repository may still receive occasional updates as needed.
+
 ## Install and setup python uv
 1. Install `uv` by running `pip install uv` in Command Prompt.
 2. Go to the project folder
